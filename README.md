@@ -13,15 +13,10 @@
 <br>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="400" height="250" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" height="250" />
 </div>
 
 <br>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=karim-coder&show_icons=true&theme=dark&bg_color=0d1117&hide_border=true&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karim-coder&layout=compact&theme=dark&bg_color=0d1117&hide_border=true&title_color=58a6ff&text_color=c9d1d9" height="165">
-</p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=karim-coder&theme=dark&background=0d1117&hide_border=true&stroke=58a6ff&ring=58a6ff&fire=ffd700&currStreakLabel=c9d1d9">
