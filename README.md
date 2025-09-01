@@ -1,4 +1,4 @@
-# Hi, I’m [YourName] 👋  
+# Hi, I’m Karim 👋  
 
 I enjoy building tools that make life simpler, smarter, and faster.  
 Here you’ll mostly find my experiments, side projects, and things I’m learning along the way.  
